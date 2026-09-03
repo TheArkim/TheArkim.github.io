@@ -1,27 +1,25 @@
 [
   {
-    "company": "Demo Company",
-    "role": "Lead Software Engineer",
-    "period": "Oct 2025 - Present",
+    "company": "Infinite Computer Solutions",
+    "role": "Software Developer",
+    "period": "Jul 2022 - Dec 2025",
     "type": "Full time job",
-    "description": "Leading cross-platform application development using Flutter and Python FastAPI. Focused on scalable system design, API integrations, and team leadership.",
-    "skills": ["Team Leadership", "System Architecture", "Flutter", "FastAPI"]
+    "description": "Specializing in QA Automation and software testing, leveraging a strong software development background to design reliable tests, validate functionality, and improve software quality.",
+    "skills": ["Uipath", "Git", ".Net Core", "Angular", "Moq", "NUnit", "JavaScript", "SQL server", "Node.js", "PostgreSQL"]
   },
   {
-    "company": "Demo Solutions Ltd",
-    "url": "https://example.com",
-    "role": "Full-stack Developer",
-    "period": "Sep 2023 - Sep 2025",
+    "company": "Istmo Center",
+    "role": "Software Developer",
+    "period": "Sep 2020 - Jun 2022",
     "type": "Full time job",
-    "description": "Specializing in Business Research Methods and Strategic HRM. Applying analytical frameworks to human capital management.",
-    "skills": ["React", "Node.js", "PostgreSQL", "Docker"]
+    "description": "Specializing in fullstack development. Applying frontend and backend frameworks to create robust web applications.",
+    "skills": ["JavaScript", "Node.js", "PostgreSQL", "Python", "Django", "CSS", "Git", "Postman"]
   },
   {
-    "company": "Demo University of Tech",
-    "role": "BSc in Computer Science",
-    "period": "Jun 2020 - Jun 2024",
+    "company": "Universidad de Costa Rica",
+    "role": "Bachelor's Degree in systems engineering",
+    "period": "Mar 2014 - Mar 2020",
     "type": "Student",
-    "description": "Graduated with honors. Focused on data structures, algorithm optimization, software architecture, and database systems.",
     "skills": ["Data Structures", "Algorithms", "OOP", "DBMS"]
   }
 ]

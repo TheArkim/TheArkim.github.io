@@ -10,7 +10,7 @@ import localData from '../data/home.json';
         <p class="text-subtext text-sm font-body order-2 md:order-1">
           {localData.name} © 2026
         </p>
-        <div class="flex items-center flex-wrap justify-center gap-3 text-subtext text-xs font-body order-1 md:order-2">
+        <!-- <div class="flex items-center flex-wrap justify-center gap-3 text-subtext text-xs font-body order-1 md:order-2">
           <span>Built using </span>
           <a
             href="https://astro.build/themes/details/career-portfolio-data-driven-astro-ssg/"
@@ -20,12 +20,12 @@ import localData from '../data/home.json';
             Career Portfolio Theme
           </a>
           <span class="text-subtext hidden sm:inline">•</span>
-          <div class="flex gap-4">
+          <div class="flex gap-4"> -->
               <!-- Dark Theme Icon -->
-              <Icon name="devicon-plain:astro-wordmark" class="h-11 w-auto group-hover:drop-shadow-[0_0_5px_var(--color-accent)] astro-icon-dark" />
+              <!-- <Icon name="devicon-plain:astro-wordmark" class="h-11 w-auto group-hover:drop-shadow-[0_0_5px_var(--color-accent)] astro-icon-dark" /> -->
               <!-- Light Theme Icon -->
-              <Icon name="devicon:astro-wordmark" class="h-11 w-auto group-hover:drop-shadow-[0_0_5px_var(--color-accent)] astro-icon-light" />
-          </div>
+              <!-- <Icon name="devicon:astro-wordmark" class="h-11 w-auto group-hover:drop-shadow-[0_0_5px_var(--color-accent)] astro-icon-light" />
+          </div> -->
         </div>
       </div>
     </div>
@@ -47,7 +47,7 @@ import localData from '../data/home.json';
   :global([data-theme$="-dark"]) .astro-icon-light {
     display: none;
   }
-  
+
   :global([data-theme$="-light"]) .astro-icon-dark {
     display: none;
   }
